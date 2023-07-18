@@ -20,5 +20,6 @@ git push:agrega cambios al remoto
 
 git merge: traer info de una rama a otra rama
 
+holaaaaaaa
 
-git merge:
+
